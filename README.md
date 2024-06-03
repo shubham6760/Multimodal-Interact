@@ -1,4 +1,4 @@
-###Local Multimodal AI Chat
+Local Multimodal AI Chat
 Overview
 Local Multimodal AI Chat is an immersive project designed to delve into the development of a multimodal chat application. With a focus on integrating various AI models to handle audio, images, and PDFs within a unified chat interface, this project offers invaluable hands-on experience for enthusiasts interested in AI and software development.
 
